@@ -1,0 +1,1504 @@
+{
+  "locations": [
+    {
+      "name": "Clementina Larkin",
+      "address": [
+        "53729 Pollich Row",
+        "Tiffanyhaven",
+        "37514"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "80mi"
+    },
+    {
+      "name": "Stanford Ryan",
+      "address": [
+        "1017 Beahan Row",
+        "Tamiamouth",
+        "33355"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "192mi"
+    },
+    {
+      "name": "Miss Reyna Deckow",
+      "address": [
+        "830 Trantow Vista",
+        "Gaylordshire",
+        "93180"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "133mi"
+    },
+    {
+      "name": "Cleve Jenkins",
+      "address": [
+        "3773 Gutmann Grove",
+        "South Dallas",
+        "10713"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "145mi"
+    },
+    {
+      "name": "Paige Lubowitz V",
+      "address": [
+        "06533 Torphy Vista",
+        "Sawaynfort",
+        "68832-6772"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "115mi"
+    },
+    {
+      "name": "Norma Kemmer",
+      "address": [
+        "80737 Douglas Track",
+        "Port Arlieberg",
+        "86233-1301"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "50mi"
+    },
+    {
+      "name": "Cristobal Smith Jr.",
+      "address": [
+        "84524 Lavina Square",
+        "West Felipa",
+        "42504-4352"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "111mi"
+    },
+    {
+      "name": "Raphael Hessel",
+      "address": [
+        "79494 Feil Locks",
+        "Tysonburgh",
+        "98704-8296"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "195mi"
+    },
+    {
+      "name": "Regan Howe",
+      "address": [
+        "65727 Salma Court",
+        "Bennyside",
+        "43608-1668"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "216mi"
+    },
+    {
+      "name": "Amelie Bernier",
+      "address": [
+        "50102 Kristin Crossing",
+        "South Kian",
+        "83353-6137"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "42mi"
+    },
+    {
+      "name": "Thelma Wolf",
+      "address": [
+        "7309 Emmet Greens",
+        "Heidenreichshire",
+        "33445-0073"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "40mi"
+    },
+    {
+      "name": "Miss Kathleen Schumm",
+      "address": [
+        "877 Wiegand Springs",
+        "Damienfurt",
+        "64745"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "3mi"
+    },
+    {
+      "name": "Albin Murazik",
+      "address": [
+        "8866 Watson Isle",
+        "Lake Myraburgh",
+        "80265-9729"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "83mi"
+    },
+    {
+      "name": "Lillian Lowe III",
+      "address": [
+        "777 Keon Ville",
+        "Lake Myahaven",
+        "82697"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "73mi"
+    },
+    {
+      "name": "Kayley Ledner",
+      "address": [
+        "8551 Evelyn Extension",
+        "South Pascale",
+        "44451"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "242mi"
+    },
+    {
+      "name": "Newell Lang",
+      "address": [
+        "9893 Jeromy Cape",
+        "Hoegerborough",
+        "30960"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "192mi"
+    },
+    {
+      "name": "Delia VonRueden",
+      "address": [
+        "372 Dooley Common",
+        "Reingerberg",
+        "27929-5637"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "19mi"
+    },
+    {
+      "name": "Arden Purdy",
+      "address": [
+        "49386 Heaven Hill",
+        "Willmsberg",
+        "48877"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "71mi"
+    },
+    {
+      "name": "Jayne Ebert",
+      "address": [
+        "59640 Fritsch Estate",
+        "New Demetris",
+        "83537-7941"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "199mi"
+    },
+    {
+      "name": "Aisha Runolfsson",
+      "address": [
+        "49465 Rodriguez Rapids",
+        "Lake Kira",
+        "51291"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "65mi"
+    },
+    {
+      "name": "Francis Leffler PhD",
+      "address": [
+        "4161 Harvey Locks",
+        "North Jamaalmouth",
+        "71238-6102"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "99mi"
+    },
+    {
+      "name": "Savannah Lynch",
+      "address": [
+        "01316 Abshire Groves",
+        "Port Giovani",
+        "84799"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "161mi"
+    },
+    {
+      "name": "Noemy Kertzmann",
+      "address": [
+        "911 Sanford Mount",
+        "South Betsyshire",
+        "56953-4704"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "33mi"
+    },
+    {
+      "name": "Waino Schmitt",
+      "address": [
+        "7130 Garret Ferry",
+        "Dellhaven",
+        "02252-2695"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "114mi"
+    },
+    {
+      "name": "Dora Nicolas",
+      "address": [
+        "230 Brett Drive",
+        "Jadynchester",
+        "00804"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "219mi"
+    },
+    {
+      "name": "Elizabeth Willms",
+      "address": [
+        "6323 Kathryn Unions",
+        "Cruickshankchester",
+        "58916-4079"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "50mi"
+    },
+    {
+      "name": "Alysson Lakin DDS",
+      "address": [
+        "94102 Magnolia Highway",
+        "Jerodburgh",
+        "12049-8761"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "111mi"
+    },
+    {
+      "name": "Jessyca Runolfsdottir",
+      "address": [
+        "992 Zulauf Shores",
+        "Murraystad",
+        "83705-2269"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "248mi"
+    },
+    {
+      "name": "Bradley Stark",
+      "address": [
+        "10492 Oberbrunner Throughway",
+        "Christiansenside",
+        "56038"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "235mi"
+    },
+    {
+      "name": "Marjorie Koss",
+      "address": [
+        "364 Goyette Forest",
+        "South Anderson",
+        "81017-2600"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "162mi"
+    },
+    {
+      "name": "Mikel Yost",
+      "address": [
+        "1997 Rosamond Ways",
+        "East Marjolaine",
+        "43754-1948"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "69mi"
+    },
+    {
+      "name": "Anibal Collins",
+      "address": [
+        "5816 Aufderhar Camp",
+        "Weberchester",
+        "79495-6974"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "231mi"
+    },
+    {
+      "name": "Nicole Altenwerth",
+      "address": [
+        "112 Satterfield Shoal",
+        "Jacobifort",
+        "64245"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "107mi"
+    },
+    {
+      "name": "Dr. Kiel Feeney",
+      "address": [
+        "801 Lavada Station",
+        "Feestfurt",
+        "00010"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "205mi"
+    },
+    {
+      "name": "Mr. Maya Kihn",
+      "address": [
+        "5173 Nasir Ramp",
+        "Port Bonita",
+        "55947"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "1mi"
+    },
+    {
+      "name": "Anais Upton",
+      "address": [
+        "8023 Josh Road",
+        "New Robertoton",
+        "39567-0544"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "14mi"
+    },
+    {
+      "name": "Rhea Goldner",
+      "address": [
+        "2352 Abernathy Flat",
+        "Lake Dina",
+        "30948-3499"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "76mi"
+    },
+    {
+      "name": "Eda Schowalter",
+      "address": [
+        "85638 Hills Trail",
+        "Gayhaven",
+        "01500"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "112mi"
+    },
+    {
+      "name": "Idell Windler",
+      "address": [
+        "81088 Jerde Center",
+        "Lake Libbyton",
+        "24133"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "119mi"
+    },
+    {
+      "name": "Dr. Shaniya Kris",
+      "address": [
+        "1802 Schimmel Islands",
+        "Rubenchester",
+        "34394"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "49mi"
+    },
+    {
+      "name": "Samson Reinger",
+      "address": [
+        "71449 Muller Walk",
+        "Zemlakberg",
+        "43630"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "127mi"
+    },
+    {
+      "name": "Christop Schuster Jr.",
+      "address": [
+        "94651 Connelly Ports",
+        "Ziemefurt",
+        "27910-3226"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "225mi"
+    },
+    {
+      "name": "Fabiola Harvey",
+      "address": [
+        "081 Greenholt Isle",
+        "Grimesview",
+        "27260"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "220mi"
+    },
+    {
+      "name": "Schuyler Mayer",
+      "address": [
+        "963 Littel Station",
+        "Haventown",
+        "65677-4470"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "128mi"
+    },
+    {
+      "name": "Ms. Demond Willms",
+      "address": [
+        "32754 Joana Springs",
+        "Boyleside",
+        "10797-3673"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "119mi"
+    },
+    {
+      "name": "Ernestina Nienow",
+      "address": [
+        "684 Bailey Grove",
+        "East Wade",
+        "55035"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "235mi"
+    },
+    {
+      "name": "Karley Dooley",
+      "address": [
+        "9883 Mertz Dam",
+        "Framiburgh",
+        "67774-7292"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "126mi"
+    },
+    {
+      "name": "Daisha Pollich",
+      "address": [
+        "03153 Senger Summit",
+        "Alysaberg",
+        "07217-0826"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "6mi"
+    },
+    {
+      "name": "Ulices Boyer",
+      "address": [
+        "249 Walter Groves",
+        "Hoegerside",
+        "86800"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "250mi"
+    },
+    {
+      "name": "Glen Gaylord",
+      "address": [
+        "02288 Osinski Squares",
+        "Marquardtberg",
+        "02684-5451"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "120mi"
+    },
+    {
+      "name": "Emmie Schowalter",
+      "address": [
+        "33848 Little Turnpike",
+        "South Quintenland",
+        "16087-9085"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "131mi"
+    },
+    {
+      "name": "Carroll Emard",
+      "address": [
+        "292 Jake Plaza",
+        "Manleyville",
+        "51136"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "221mi"
+    },
+    {
+      "name": "Anabelle Miller",
+      "address": [
+        "1251 Eliza Meadow",
+        "Rodfort",
+        "83233"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "18mi"
+    },
+    {
+      "name": "Colt Bogisich",
+      "address": [
+        "0802 Emmett Ridges",
+        "Dylanhaven",
+        "49033-5973"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "59mi"
+    },
+    {
+      "name": "Roberta Gleichner",
+      "address": [
+        "2910 Brenna Squares",
+        "Alekfort",
+        "40269"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "169mi"
+    },
+    {
+      "name": "Armani Wisoky",
+      "address": [
+        "752 Aurelia Ports",
+        "Terryberg",
+        "12828-9018"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "119mi"
+    },
+    {
+      "name": "Armani Klein",
+      "address": [
+        "1819 Sterling Via",
+        "West Tania",
+        "55856-3808"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "19mi"
+    },
+    {
+      "name": "Mr. Gilbert Franecki",
+      "address": [
+        "198 Taya Mountains",
+        "South Nedra",
+        "01070-4222"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "86mi"
+    },
+    {
+      "name": "Trevion McGlynn",
+      "address": [
+        "50360 Medhurst Extension",
+        "Alexborough",
+        "65734"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "191mi"
+    },
+    {
+      "name": "Aric Medhurst",
+      "address": [
+        "00668 Nyasia Club",
+        "South Orlando",
+        "74712"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "188mi"
+    },
+    {
+      "name": "Robyn Durgan",
+      "address": [
+        "74385 McCullough Trail",
+        "Kundeshire",
+        "00101-1410"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "77mi"
+    },
+    {
+      "name": "Chester Pollich",
+      "address": [
+        "90085 Geraldine Pass",
+        "Keyontown",
+        "63032-7329"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "135mi"
+    },
+    {
+      "name": "Amya Dooley",
+      "address": [
+        "50193 Romaguera Islands",
+        "Port Michealstad",
+        "50793-0761"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "126mi"
+    },
+    {
+      "name": "Bernie Kautzer",
+      "address": [
+        "899 McCullough Station",
+        "Brucechester",
+        "56901-6117"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "89mi"
+    },
+    {
+      "name": "Leopold Collier",
+      "address": [
+        "4417 Simonis Mission",
+        "Kraighaven",
+        "04915-0955"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "149mi"
+    },
+    {
+      "name": "Mckenna Green",
+      "address": [
+        "5077 Kaela Crescent",
+        "West Minnie",
+        "91654-1942"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "183mi"
+    },
+    {
+      "name": "Alba Douglas",
+      "address": [
+        "60897 Hauck Station",
+        "West Vivian",
+        "81722"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "57mi"
+    },
+    {
+      "name": "Rachael Rogahn",
+      "address": [
+        "75865 Zack Underpass",
+        "New Arielfort",
+        "23048-9205"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "176mi"
+    },
+    {
+      "name": "Jimmy Predovic",
+      "address": [
+        "92019 Bergnaum Camp",
+        "North Reese",
+        "07145"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "90mi"
+    },
+    {
+      "name": "Yazmin Hahn",
+      "address": [
+        "3642 Deja Villages",
+        "Hansentown",
+        "41083"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "192mi"
+    },
+    {
+      "name": "Emmitt Macejkovic",
+      "address": [
+        "935 Will Light",
+        "Port Chelseabury",
+        "75502-7289"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "120mi"
+    },
+    {
+      "name": "Dahlia Rutherford",
+      "address": [
+        "071 Maryjane Cove",
+        "Fordborough",
+        "20380-0324"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "102mi"
+    },
+    {
+      "name": "Adelia Spinka",
+      "address": [
+        "61936 Marianna Square",
+        "Port Brookfurt",
+        "83881"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "228mi"
+    },
+    {
+      "name": "Lavina Price",
+      "address": [
+        "8304 Camryn Square",
+        "Torphychester",
+        "63571-5166"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "151mi"
+    },
+    {
+      "name": "Hassie Doyle",
+      "address": [
+        "195 Carter Drive",
+        "North Zachariah",
+        "44479-5790"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "59mi"
+    },
+    {
+      "name": "Lonnie McKenzie",
+      "address": [
+        "706 Lacy Burg",
+        "South Lancebury",
+        "15053-0659"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "163mi"
+    },
+    {
+      "name": "Karson Bailey",
+      "address": [
+        "763 Jayson Neck",
+        "North Kobyburgh",
+        "33252"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "97mi"
+    },
+    {
+      "name": "Iliana Runolfsdottir",
+      "address": [
+        "928 Schmeler Passage",
+        "Lake Juliet",
+        "11646"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "66mi"
+    },
+    {
+      "name": "Alysson Wilderman",
+      "address": [
+        "8288 Fay Station",
+        "Rexstad",
+        "91607"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "49mi"
+    },
+    {
+      "name": "Dr. Bo Abshire",
+      "address": [
+        "7037 Russel Views",
+        "MacGyvermouth",
+        "22245"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "117mi"
+    },
+    {
+      "name": "Mrs. Greta Heidenreich",
+      "address": [
+        "245 Kattie Manors",
+        "Port Oren",
+        "44598"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "5mi"
+    },
+    {
+      "name": "Dolly Wiza",
+      "address": [
+        "6967 Roberts Parkways",
+        "New Jeremie",
+        "56219"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "79mi"
+    },
+    {
+      "name": "Lysanne Raynor",
+      "address": [
+        "4169 Reilly Squares",
+        "Toymouth",
+        "93064"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "215mi"
+    },
+    {
+      "name": "Cody Hilpert",
+      "address": [
+        "801 Prohaska Club",
+        "Port Jonathanfort",
+        "58589"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "19mi"
+    },
+    {
+      "name": "Alessandra Jacobs",
+      "address": [
+        "2582 Lebsack Dale",
+        "Jordaneborough",
+        "62272-4448"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "215mi"
+    },
+    {
+      "name": "Garrick Moen",
+      "address": [
+        "5506 Sanford Shoals",
+        "Kozeyport",
+        "09784-6008"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "3mi"
+    },
+    {
+      "name": "Lavina Botsford",
+      "address": [
+        "781 Bechtelar Underpass",
+        "Koeppborough",
+        "78665-2906"
+      ],
+      "rating": 1,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "177mi"
+    },
+    {
+      "name": "Kendrick Jones MD",
+      "address": [
+        "87835 Ledner Harbor",
+        "Larryside",
+        "71731-8284"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "196mi"
+    },
+    {
+      "name": "Zack VonRueden",
+      "address": [
+        "37460 Kayley Ridge",
+        "Port Carole",
+        "73342-7344"
+      ],
+      "rating": 2,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "86mi"
+    },
+    {
+      "name": "Violette Kilback",
+      "address": [
+        "43699 Koss View",
+        "East Aletha",
+        "16112-6211"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "165mi"
+    },
+    {
+      "name": "Mikayla Veum",
+      "address": [
+        "18053 Winona Isle",
+        "South Martyhaven",
+        "85980-4712"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "23mi"
+    },
+    {
+      "name": "Mafalda Schneider",
+      "address": [
+        "47220 Harber Field",
+        "Cheyenneport",
+        "00923"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "241mi"
+    },
+    {
+      "name": "Tamia Cummings",
+      "address": [
+        "11618 Schultz Fields",
+        "New Loren",
+        "75423"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "99mi"
+    },
+    {
+      "name": "Felton Reilly II",
+      "address": [
+        "6910 Schowalter Views",
+        "Letashire",
+        "00276"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "81mi"
+    },
+    {
+      "name": "Christelle Kutch IV",
+      "address": [
+        "5128 Amani Rue",
+        "Cartwrighttown",
+        "52230"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "224mi"
+    },
+    {
+      "name": "Rylee Little",
+      "address": [
+        "3343 Lucy Pine",
+        "Lake Chauncey",
+        "33205-3390"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "174mi"
+    },
+    {
+      "name": "Tessie Casper",
+      "address": [
+        "461 Gilbert Ways",
+        "West Madelyn",
+        "57961"
+      ],
+      "rating": 3,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "239mi"
+    },
+    {
+      "name": "Geoffrey Kunze",
+      "address": [
+        "527 Golda Islands",
+        "New Columbusberg",
+        "01671-3774"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "242mi"
+    },
+    {
+      "name": "Austen Renner",
+      "address": [
+        "2629 Rempel Trail",
+        "West Carissaburgh",
+        "10789-6795"
+      ],
+      "rating": 4,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "18mi"
+    },
+    {
+      "name": "Jamal Kertzmann",
+      "address": [
+        "091 Josiane Camp",
+        "Auerfort",
+        "58675-7699"
+      ],
+      "rating": 5,
+      "facilities": [
+        "Hot drinks",
+        "Food",
+        "Premium wifi"
+      ],
+      "distance": "77mi"
+    }
+  ]
+}
